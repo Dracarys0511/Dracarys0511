@@ -1,4 +1,4 @@
-## Hello  I am Geetansh Sharma
+<h1 align="center">Hello  I am Geetansh Sharma</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
