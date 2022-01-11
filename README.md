@@ -1,4 +1,4 @@
-<b><h1>Hello  I am Geetansh Sharma</h1></b>
+<b>Hello  I am Geetansh Sharma</b>
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dracarys0511&layout=compact)](https://github.com/Dracarys0511/github-readme-stats)
